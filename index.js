@@ -14,5 +14,5 @@ function divide() {
 }
 
 function addNums(a, b) {
-  return a + b
+  return (a + b)
 }
