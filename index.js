@@ -10,7 +10,7 @@ function multiply() {
 }
 
 function divide() {
-  return 10/10
+  return 1.3434343434 / 2
 }
 
 function add(a, b) {
@@ -23,4 +23,8 @@ function subtract (a, b) {
 
 function multiply (a, b) {
   return a*b
+}
+
+fucntion divide(a, b) {
+  return a / b
 }
