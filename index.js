@@ -2,7 +2,7 @@ function add(){
   return 530.5 + 530.5
 }
 function subtract() {
-  return 10 - 10
+  return 10 - 419
 }
 
 function multiply() {
@@ -15,4 +15,8 @@ function divide() {
 
 function add(a, b) {
   return (a + b)
+}
+
+function subtract (a, b) {
+  return a - b
 }
