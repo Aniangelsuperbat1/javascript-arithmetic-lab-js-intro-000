@@ -13,6 +13,6 @@ function divide() {
   return 10/10
 }
 
-function addNums(a, b) {
+function add(a, b) {
   return (a + b)
 }
