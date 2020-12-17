@@ -6,7 +6,7 @@ function subtract() {
 }
 
 function multiply() {
-  return 10*10
+  return 2*176351
 }
 
 function divide() {
@@ -19,4 +19,8 @@ function add(a, b) {
 
 function subtract (a, b) {
   return a - b
+}
+
+function multiply (a, b) {
+  return a*b
 }
