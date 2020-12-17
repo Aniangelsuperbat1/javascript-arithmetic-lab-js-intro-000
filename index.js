@@ -1,1 +1,3 @@
-10 + 10
+function add(){
+  return 10 + 10
+}
